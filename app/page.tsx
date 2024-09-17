@@ -7,9 +7,9 @@ export default function Home() {
 
   const messages = [
     'Obrigado por ter entrado na minha vida, voce é um presente de Deus pra mim!',
-    'Prometo ser o mais atencioso possivel com você e estar nos momentos dificeis',
-    'quero ser o Homem da sua vida, sou seu apenas seu e que assim seja !',
-    'Amo seu jeito, eu te amo, voce é linda por dentro e por fora, tudo em voce seus defeitos e qualidade te tornam a mulher da minha vida!',
+    'Prometo ser o mais atencioso, respeito e carinhoso possivel com você e estar nos momentos dificeis se precisar',
+    'quero ser o Homem da sua vida, futuro esposo, e confidente fiel!',
+    'Amo seu jeito, eu te amo, voce é linda por dentro e por fora, tudo em voce! seus defeitos e qualidade te tornam a mulher da minha vida!',
     'Não vejo a hora de te ver e a gente aproveitar cada segundo juntos, acordar e durmir juntinhos!',
     'Aqui eu declaro meu amor eterno por você!'
   ];
